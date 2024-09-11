@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MuhammedIrshath49
 - 👀 I’m interested in ... Full-Stack Development 
-- 🌱 I’m currently learning ... Python, Data Structures
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Instagram: @m.i.ddy
+- 🌱 I’m currently learning ... Software Engineering
+- 📫 How to reach me ... Instagram: @middystreetphotography
 
 <!---
 MuhammedIrshath49/MuhammedIrshath49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
