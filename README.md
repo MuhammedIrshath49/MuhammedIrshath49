@@ -68,5 +68,5 @@
 
 ## ☕ Support Me:
 
-<a href="https://www.buymeacoffee.com/muhammedirshath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://ko-fi.com/muhammedirshath" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
