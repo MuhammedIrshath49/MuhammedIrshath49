@@ -14,11 +14,11 @@
 
 - 👯 I’m open to collaborating on software engineering and development projects.
 
-- 🤔 I have experience in QA Engineering, including automation testing and terminal certification.
+- 🤔 I have experience in QA Engineering and development.
 
 - 💬 Feel free to ask me about software development, quality assurance, or cloud integration.
 
-- ⚡ Fun fact: I enjoy learning languages — currently Spanish and Hindi.
+- ⚡ Fun fact: I enjoy learning languages, and I have 2 names.
 
 ## 🛠️ Technologies and Tools I Use:
 
