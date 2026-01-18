@@ -71,19 +71,8 @@
 
 ## 🏆 Awards & Achievements
 
-- 🎓 **Founder Scholar** — MTFA Founder Scholarship (2024, 2025)  
-- 🚒 **58th Section Commander Course** — Singapore Civil Defence Force (2022)
-
----
-
-## 🌍 Languages
-
-- **English** — Fluent  
-- **Malay** — Fluent  
-- **Arabic** — Fluent  
-- **Spanish** — Familiar  
-- **French** — Basic  
-
+- 🎓 **Founder Scholar** — MTFA Founder Scholarship (2024, 2025)
+  
 ---
 
 ## 🔗 Connect With Me
